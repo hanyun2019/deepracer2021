@@ -1,5 +1,5 @@
 # deepracer2021
-# By Haowen Huang
+By Haowen Huang
 Prepared for GCR Internal DeepRacer Challenger Match
 
 Paremeters as the follows:
