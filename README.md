@@ -2,7 +2,7 @@
 
 Prepared for GCR Internal DeepRacer Challenger Match by Haowen Huang 
 
-Paremeters as the follows:
+Parameters as the follows:
 
 
 Speed: [0.9:1.8] m/s
